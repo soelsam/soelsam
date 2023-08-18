@@ -1,0 +1,3 @@
+- first commit
+- 👋 Hi, I’m @soelsam
+- 🌱 I’m currently learning 
